@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.click-me,.dont-click{
+    font-size: 28px;
+    font-family: Helvetica,"Time New Roman",sans-serif;
+}
+
+.click-me{
+    color: white;
+    background-color: black;
+}
+
+.dont-click{
+    background-color: yellow;
+}
